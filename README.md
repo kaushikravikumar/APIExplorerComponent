@@ -21,4 +21,3 @@ In order, to run this sample APIExplorer App, run the following code in the term
 ```
 npm start
 ```
-
