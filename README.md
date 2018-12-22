@@ -7,10 +7,11 @@ The component must be invoked in the following format.
   url = string
   method = string
   body={
+  [{
     name:string
     type: type
     required: boolean
+  },...]
   }
 />
 ```
-
